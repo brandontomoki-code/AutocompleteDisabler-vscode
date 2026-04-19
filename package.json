@@ -1,7 +1,7 @@
 {
     "name": "AutocompleteDisabler",
     "displayName": "AutocompleteDisabler",
-    "description": "Substitui todos os ponto e vírgulas (`;`) pelo ponto de interrogação grego, caractere similar ao nosso ponto e virgula que não é reconhecido pelos nossos editores :D",
+    "description": "This extension disables copilot autocomplete features in your code. enjoy :D",
     "version": "0.3.0",
     "publisher": "DeezNuts",
     "engines": {
