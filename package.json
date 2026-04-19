@@ -1,9 +1,9 @@
 {
-    "name": "troll-x-semicolon",
-    "displayName": "trollXsemicolon",
+    "name": "AutocompleteDisabler",
+    "displayName": "AutocompleteDisabler",
     "description": "Substitui todos os ponto e vírgulas (`;`) pelo ponto de interrogação grego, caractere similar ao nosso ponto e virgula que não é reconhecido pelos nossos editores :D",
     "version": "0.3.0",
-    "publisher": "eriickwendel",
+    "publisher": "DeezNuts",
     "engines": {
         "vscode": "^1.14.0"
     },
